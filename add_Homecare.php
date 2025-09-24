@@ -8,7 +8,6 @@ include 'header.php';
 <body>
     <!-- Begin page -->
     <div class="wrapper">
-
         <?php
         include 'sidebar.php';
         ?>
