@@ -1,4 +1,3 @@
-
 # 🌍 East Africa Ecommerce & Inventory Platform
 
 ### 📦 Developed by Natnael Zelalem  
